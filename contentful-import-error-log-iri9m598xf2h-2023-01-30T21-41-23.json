@@ -1,0 +1,585 @@
+[
+  {
+    "ts": "2023-01-31T03:55:24.124Z",
+    "level": "error",
+    "error": {
+      "name": "VersionMismatch",
+      "entity": {
+        "metadata": {
+          "tags": [
+          ]
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "iri9m598xf2h"
+            }
+          },
+          "id": "1cmibtu7qJ3soqg5Zg6hVb",
+          "type": "Entry",
+          "createdAt": "2023-01-31T03:54:00.653Z",
+          "updatedAt": "2023-01-31T03:54:00.653Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "createdBy": {
+            "sys": {
+              "type": "Link",
+              "linkType": "User",
+              "id": "4XOFV7M4l6w2GGvCParaUt"
+            }
+          },
+          "updatedBy": {
+            "sys": {
+              "type": "Link",
+              "linkType": "User",
+              "id": "4XOFV7M4l6w2GGvCParaUt"
+            }
+          },
+          "publishedCounter": 0,
+          "version": 1,
+          "automationTags": [
+          ],
+          "contentType": {
+            "sys": {
+              "type": "Link",
+              "linkType": "ContentType",
+              "id": "plant"
+            }
+          }
+        },
+        "fields": {
+          "plantName": {
+            "en-US": "Flower Patch"
+          },
+          "slug": {
+            "en-US": "flower-patch"
+          },
+          "description": {
+            "en-US": {
+              "data": {
+              },
+              "content": [
+                {
+                  "data": {
+                  },
+                  "content": [
+                    {
+                      "data": {
+                      },
+                      "marks": [
+                      ],
+                      "value": "Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit. Esse cillum dolore eu fugiat nulla pariatur. Do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                      "nodeType": "text"
+                    }
+                  ],
+                  "nodeType": "paragraph"
+                },
+                {
+                  "data": {
+                  },
+                  "content": [
+                    {
+                      "data": {
+                      },
+                      "marks": [
+                      ],
+                      "value": "Excepteur sint occaecat cupidatat non proident, sunt in culpa. Cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia. Facere possimus, omnis voluptas assumenda est, omnis dolor repellendus.",
+                      "nodeType": "text"
+                    }
+                  ],
+                  "nodeType": "paragraph"
+                },
+                {
+                  "data": {
+                  },
+                  "content": [
+                    {
+                      "data": {
+                      },
+                      "marks": [
+                      ],
+                      "value": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam. Corrupti quos dolores et quas molestias excepturi sint occaecati. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae.",
+                      "nodeType": "text"
+                    }
+                  ],
+                  "nodeType": "paragraph"
+                },
+                {
+                  "data": {
+                  },
+                  "content": [
+                    {
+                      "data": {
+                      },
+                      "marks": [
+                      ],
+                      "value": "Ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat. Ut enim ad minim veniam, quis nostrud exercitation ullamco. Fugiat quo voluptas nulla pariatur? Duis aute irure dolor in reprehenderit in voluptate velit.",
+                      "nodeType": "text"
+                    }
+                  ],
+                  "nodeType": "paragraph"
+                },
+                {
+                  "data": {
+                  },
+                  "content": [
+                    {
+                      "data": {
+                      },
+                      "marks": [
+                      ],
+                      "value": "Totam rem aperiam. Laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit. Et harum quidem rerum facilis est et expedita distinctio. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam.",
+                      "nodeType": "text"
+                    }
+                  ],
+                  "nodeType": "paragraph"
+                },
+                {
+                  "data": {
+                  },
+                  "content": [
+                    {
+                      "data": {
+                      },
+                      "marks": [
+                      ],
+                      "value": "Corrupti quos dolores et quas molestias excepturi sint occaecati. Totam rem aperiam. At vero eos et accusamus. Animi, id est laborum et dolorum fuga.",
+                      "nodeType": "text"
+                    }
+                  ],
+                  "nodeType": "paragraph"
+                },
+                {
+                  "data": {
+                  },
+                  "content": [
+                    {
+                      "data": {
+                      },
+                      "marks": [
+                      ],
+                      "value": "At vero eos et accusamus. Fugiat quo voluptas nulla pariatur? Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae.",
+                      "nodeType": "text"
+                    }
+                  ],
+                  "nodeType": "paragraph"
+                },
+                {
+                  "data": {
+                  },
+                  "content": [
+                    {
+                      "data": {
+                      },
+                      "marks": [
+                      ],
+                      "value": "Animi, id est laborum et dolorum fuga. Quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Esse cillum dolore eu fugiat nulla pariatur. Quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.",
+                      "nodeType": "text"
+                    }
+                  ],
+                  "nodeType": "paragraph"
+                },
+                {
+                  "data": {
+                  },
+                  "content": [
+                    {
+                      "data": {
+                      },
+                      "marks": [
+                      ],
+                      "value": "Nihil molestiae consequatur, vel illum qui dolorem eum. Non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Animi, id est laborum et dolorum fuga. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat.",
+                      "nodeType": "text"
+                    }
+                  ],
+                  "nodeType": "paragraph"
+                },
+                {
+                  "data": {
+                  },
+                  "content": [
+                    {
+                      "data": {
+                      },
+                      "marks": [
+                      ],
+                      "value": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam. Laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit. Facere possimus, omnis voluptas assumenda est, omnis dolor repellendus.",
+                      "nodeType": "text"
+                    }
+                  ],
+                  "nodeType": "paragraph"
+                },
+                {
+                  "data": {
+                  },
+                  "content": [
+                    {
+                      "data": {
+                      },
+                      "marks": [
+                      ],
+                      "value": "Ut enim ad minim veniam, quis nostrud exercitation ullamco. Laboris nisi ut aliquip ex ea commodo consequat. Qui officia deserunt mollit anim id est laborum. Itaque earum rerum hic tenetur a sapiente delectus.",
+                      "nodeType": "text"
+                    }
+                  ],
+                  "nodeType": "paragraph"
+                }
+              ],
+              "nodeType": "document"
+            }
+          },
+          "image": {
+            "en-US": {
+              "sys": {
+                "type": "Link",
+                "linkType": "Asset",
+                "id": "4lQ1ZbNLCWKEe0nu0fVL3a"
+              }
+            }
+          },
+          "category": {
+            "en-US": {
+              "sys": {
+                "type": "Link",
+                "linkType": "Entry",
+                "id": "GO6wf5BvVATrmdDntCgtz"
+              }
+            }
+          },
+          "author": {
+            "en-US": {
+              "sys": {
+                "type": "Link",
+                "linkType": "Entry",
+                "id": "5LD5dZYHZHfZ9CznG5foZ2"
+              }
+            }
+          }
+        }
+      },
+      "data": {
+        "status": 409,
+        "statusText": "Conflict",
+        "message": "",
+        "details": {
+        },
+        "request": {
+          "url": "/spaces/iri9m598xf2h/environments/master/entries/1cmibtu7qJ3soqg5Zg6hVb/published",
+          "headers": {
+            "Accept": "application/json, text/plain, */*",
+            "Content-Type": "application/vnd.contentful.management.v1+json",
+            "X-Contentful-User-Agent": "app contentful.cli/0.0.0-determined-by-semantic-release; feature space-import; sdk contentful-management.js/0.0.0-determined-by-semantic-release; platform node.js/v18.9.0; os macOS/v18.9.0;",
+            "CF-Sequence": "b46b795f-a08d-4aa9-8e61-92e21603889b",
+            "Authorization": "Bearer ...0MDXM",
+            "X-Contentful-Version": 1,
+            "User-Agent": "axios/0.27.2"
+          },
+          "method": "put",
+          "payloadData": null
+        },
+        "requestId": "83951692-0f50-4bb0-9b39-f004441f5617"
+      }
+    }
+  },
+  {
+    "ts": "2023-01-31T03:56:42.206Z",
+    "level": "error",
+    "error": {
+      "name": "VersionMismatch",
+      "entity": {
+        "metadata": {
+          "tags": [
+          ]
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "iri9m598xf2h"
+            }
+          },
+          "id": "1cmibtu7qJ3soqg5Zg6hVb",
+          "type": "Entry",
+          "createdAt": "2023-01-31T03:54:00.653Z",
+          "updatedAt": "2023-01-31T03:54:00.653Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "createdBy": {
+            "sys": {
+              "type": "Link",
+              "linkType": "User",
+              "id": "4XOFV7M4l6w2GGvCParaUt"
+            }
+          },
+          "updatedBy": {
+            "sys": {
+              "type": "Link",
+              "linkType": "User",
+              "id": "4XOFV7M4l6w2GGvCParaUt"
+            }
+          },
+          "publishedCounter": 0,
+          "version": 1,
+          "automationTags": [
+          ],
+          "contentType": {
+            "sys": {
+              "type": "Link",
+              "linkType": "ContentType",
+              "id": "plant"
+            }
+          }
+        },
+        "fields": {
+          "plantName": {
+            "en-US": "Flower Patch"
+          },
+          "slug": {
+            "en-US": "flower-patch"
+          },
+          "description": {
+            "en-US": {
+              "data": {
+              },
+              "content": [
+                {
+                  "data": {
+                  },
+                  "content": [
+                    {
+                      "data": {
+                      },
+                      "marks": [
+                      ],
+                      "value": "Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit. Esse cillum dolore eu fugiat nulla pariatur. Do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                      "nodeType": "text"
+                    }
+                  ],
+                  "nodeType": "paragraph"
+                },
+                {
+                  "data": {
+                  },
+                  "content": [
+                    {
+                      "data": {
+                      },
+                      "marks": [
+                      ],
+                      "value": "Excepteur sint occaecat cupidatat non proident, sunt in culpa. Cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia. Facere possimus, omnis voluptas assumenda est, omnis dolor repellendus.",
+                      "nodeType": "text"
+                    }
+                  ],
+                  "nodeType": "paragraph"
+                },
+                {
+                  "data": {
+                  },
+                  "content": [
+                    {
+                      "data": {
+                      },
+                      "marks": [
+                      ],
+                      "value": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam. Corrupti quos dolores et quas molestias excepturi sint occaecati. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae.",
+                      "nodeType": "text"
+                    }
+                  ],
+                  "nodeType": "paragraph"
+                },
+                {
+                  "data": {
+                  },
+                  "content": [
+                    {
+                      "data": {
+                      },
+                      "marks": [
+                      ],
+                      "value": "Ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat. Ut enim ad minim veniam, quis nostrud exercitation ullamco. Fugiat quo voluptas nulla pariatur? Duis aute irure dolor in reprehenderit in voluptate velit.",
+                      "nodeType": "text"
+                    }
+                  ],
+                  "nodeType": "paragraph"
+                },
+                {
+                  "data": {
+                  },
+                  "content": [
+                    {
+                      "data": {
+                      },
+                      "marks": [
+                      ],
+                      "value": "Totam rem aperiam. Laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit. Et harum quidem rerum facilis est et expedita distinctio. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam.",
+                      "nodeType": "text"
+                    }
+                  ],
+                  "nodeType": "paragraph"
+                },
+                {
+                  "data": {
+                  },
+                  "content": [
+                    {
+                      "data": {
+                      },
+                      "marks": [
+                      ],
+                      "value": "Corrupti quos dolores et quas molestias excepturi sint occaecati. Totam rem aperiam. At vero eos et accusamus. Animi, id est laborum et dolorum fuga.",
+                      "nodeType": "text"
+                    }
+                  ],
+                  "nodeType": "paragraph"
+                },
+                {
+                  "data": {
+                  },
+                  "content": [
+                    {
+                      "data": {
+                      },
+                      "marks": [
+                      ],
+                      "value": "At vero eos et accusamus. Fugiat quo voluptas nulla pariatur? Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae.",
+                      "nodeType": "text"
+                    }
+                  ],
+                  "nodeType": "paragraph"
+                },
+                {
+                  "data": {
+                  },
+                  "content": [
+                    {
+                      "data": {
+                      },
+                      "marks": [
+                      ],
+                      "value": "Animi, id est laborum et dolorum fuga. Quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Esse cillum dolore eu fugiat nulla pariatur. Quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.",
+                      "nodeType": "text"
+                    }
+                  ],
+                  "nodeType": "paragraph"
+                },
+                {
+                  "data": {
+                  },
+                  "content": [
+                    {
+                      "data": {
+                      },
+                      "marks": [
+                      ],
+                      "value": "Nihil molestiae consequatur, vel illum qui dolorem eum. Non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Animi, id est laborum et dolorum fuga. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat.",
+                      "nodeType": "text"
+                    }
+                  ],
+                  "nodeType": "paragraph"
+                },
+                {
+                  "data": {
+                  },
+                  "content": [
+                    {
+                      "data": {
+                      },
+                      "marks": [
+                      ],
+                      "value": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam. Laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit. Facere possimus, omnis voluptas assumenda est, omnis dolor repellendus.",
+                      "nodeType": "text"
+                    }
+                  ],
+                  "nodeType": "paragraph"
+                },
+                {
+                  "data": {
+                  },
+                  "content": [
+                    {
+                      "data": {
+                      },
+                      "marks": [
+                      ],
+                      "value": "Ut enim ad minim veniam, quis nostrud exercitation ullamco. Laboris nisi ut aliquip ex ea commodo consequat. Qui officia deserunt mollit anim id est laborum. Itaque earum rerum hic tenetur a sapiente delectus.",
+                      "nodeType": "text"
+                    }
+                  ],
+                  "nodeType": "paragraph"
+                }
+              ],
+              "nodeType": "document"
+            }
+          },
+          "image": {
+            "en-US": {
+              "sys": {
+                "type": "Link",
+                "linkType": "Asset",
+                "id": "4lQ1ZbNLCWKEe0nu0fVL3a"
+              }
+            }
+          },
+          "category": {
+            "en-US": {
+              "sys": {
+                "type": "Link",
+                "linkType": "Entry",
+                "id": "GO6wf5BvVATrmdDntCgtz"
+              }
+            }
+          },
+          "author": {
+            "en-US": {
+              "sys": {
+                "type": "Link",
+                "linkType": "Entry",
+                "id": "5LD5dZYHZHfZ9CznG5foZ2"
+              }
+            }
+          }
+        }
+      },
+      "data": {
+        "status": 409,
+        "statusText": "Conflict",
+        "message": "",
+        "details": {
+        },
+        "request": {
+          "url": "/spaces/iri9m598xf2h/environments/master/entries/1cmibtu7qJ3soqg5Zg6hVb/published",
+          "headers": {
+            "Accept": "application/json, text/plain, */*",
+            "Content-Type": "application/vnd.contentful.management.v1+json",
+            "X-Contentful-User-Agent": "app contentful.cli/0.0.0-determined-by-semantic-release; feature space-import; sdk contentful-management.js/0.0.0-determined-by-semantic-release; platform node.js/v18.9.0; os macOS/v18.9.0;",
+            "CF-Sequence": "b46b795f-a08d-4aa9-8e61-92e21603889b",
+            "Authorization": "Bearer ...0MDXM",
+            "X-Contentful-Version": 1,
+            "User-Agent": "axios/0.27.2"
+          },
+          "method": "put",
+          "payloadData": null
+        },
+        "requestId": "f23c6f36-8dc5-43d5-89a0-339feccf5103"
+      }
+    }
+  },
+  {
+    "ts": "2023-01-31T03:56:42.207Z",
+    "level": "error",
+    "error": "Could not publish the following entities: 1cmibtu7qJ3soqg5Zg6hVb"
+  }
+]
